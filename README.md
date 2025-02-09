@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studying for a master's in **cognitive science and artificial intelligence**
 
-- 🌱 I’m currently learning **Nlp**
-
 - 📫 How to reach me **zaidmohamed411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
